@@ -2,10 +2,10 @@
   "title": "Whats for dinner test",
   "recipes": [
     {
-      "title": "Chicken Parmigiana",
-      "pic": "https://www.gourmandize.com/media/10037_crop.jpg/tsp/chicken-parmigiana.jpg",
-      "ingredients": [],
-      "directions": ""
+      "title": "Greek Chicken Burgers",
+      "pic": "https://www.google.com/search?q=Black+Women+Greek+Chicken+Burgers&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi0z7ygitfaAhUjTd8KHTMxDYwQ_AUICigB&biw=904&bih=664#imgrc=AcAaCZUVha0KcM:",
+      "ingredients": ["4 pita pockets","1/2 c. crumbled feta cheese","1 lb. ground chicken","1 large egg","loosely packed fresh mint leaves","6 oz. low-fat plain yogurt","4 c.romaine or iceberg lettuce", "3 plum tomatoes"],
+      "directions": "1)Cut off 1/3 piece of each pita and grate on fine side of grater or pulse in food processor to make 1/2 cup bread crumbs. 2)In large bowl, mix crumbs, chicken, feta, egg, 1/4 cup mint, 1/4 teaspoon salt, and 1/8 teaspoon ground black pepper until just combined. Shape mixture into 8 small 3/4-inch-thick burgers. 3)Heat nonstick 12-inch skillet over medium heat. Add burgers and cook 10 to 12 minutes or until browned on both sides and cooked through. 4)Meanwhile, in small bowl, combine yogurt and remaining mint. 5)To serve, fill each pita with lettuce, tomatoes, 2 burgers, and yogurt sauce.  "
     },
     {
       "title": "The Perfect Hamburger",
@@ -14,16 +14,88 @@
       "directions": "1)In a large bowl, combine egg and seasonings. Crumble beef over mixture and mix well. Shape into four 3/4-in.-thick patties. 2) Grill, covered, on a greased grill rack over medium heat or broil 4 in. from the heat for 5-7 minutes on each side or until a thermometer reads 160° and juices run clear. Serve on buns, with toppings as desired. Yield: 4 servings."
     },
     {
-      "title": "Prime Rib",
-      "pic": "http://www.windsorstar.com/news/cms/binary/6074586.jpg?size=640x420",
-      "ingredients": [],
-      "directions": ""
+      "title": "Turkey and Spicy Hummus Clubs",
+      "pic": "https://www.google.com/search?q=Turkey+and+Spicy+Hummus+Clubs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiamrDyh9faAhWCct8KHZ-FDeIQ_AUICygC&biw=904&bih=664#imgrc=dRqnZwM95Wc1JM:",
+      "ingredients": ["1 container hummus","1 tbsp. Asian chili sauce","1/4 c. light mayonnaise","1/4 tsp. smoked paprika", "8 slice reduced-sodium bacon" , "12 slice multigrain bread", "8 oz. reduced-sodium deli smoked turkey", "2 c. arugula", "2 medium tomatoes"],
+      "directions": "1)In small bowl, stir together hummus and chili sauce. In another small bowl, stir together mayonnaise and smoked paprika.2)Place 4 slices bacon on paper-towel–lined microwave-safe plate. Cover with paper towel. Microwave on high 3 to 4 minutes or until crisp. Repeat with remaining 4 slices bacon and clean paper towels. Let cool completely; crumble. 3)Spread 1 tablespoon mayonnaise on one side of 4 slices bread. Spread 2 tablespoons hummus on one side of remaining slices of bread. 4) For each sandwich: Place one-fourth of turkey on 1 slice of bread with hummus. Place bread with mayonnaise on top. Layer 2 slices bacon, one-fourth of arugula, and one-fourth of tomatoes on top of mayo. Top with another slice of bread with hummus."
     },
     {
       "title": "Disaster",
       "pic": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/diet_coke_and_mentos.jpg",
       "ingredients": ["Large bottle of Diet Coke", "About half a pack of Mentos", "Geyser tube (optional but makes things much easier"],
       "directions": "Make sure you are doing this experiment in a place where you won't get in trouble for getting Diet Coke everywhere. Outside on some grass is perfect, please don't try this one in your family lounge!!      Stand the Diet Coke upright and unscrew the lid. Put some sort of funnel or tube on top of it so you can drop the Mentos in at the same time (about half the pack is a good amount). Doing this part can be tricky if you don't have a specially designed geyser tube, I recommend buying one from a local store such as Natures Discoveries (NZ) or online.      Time for the fun part, drop the Mentos into the Diet Coke and run like mad! If you've done it properly a huge geyser of Diet Coke should come flying out of the bottle, it's a very impressive sight. The record is about 9 metres (29 feet) high!"
-    }
+    },
+	{
+       title": "Mexican Pasta",
+      "pic": "https://www.pillsbury.com/recipes/mexican-pasta-skillet/431bfc6b-f537-4a26-8449-6022d97f8611",
+      "ingredients": ["1 lb extra-lean (at least 90%) ground beef", "1 jar (16 oz) Old El Paso™ Thick 'n Chunky mild salsa", "1 cup Muir Glen™ organic tomato sauce (from 8-oz can) , 1 1/2
+cups water, 2 cups uncooked regular or multigrain elbow macaroni (about 8 oz) , 1
+cup frozen corn (from 12-oz bag), 1/2
+cup shredded reduced-fat sharp Cheddar cheese (2 oz) "],
+      "directions": "1)In 12-inch skillet, cook beef over medium- high heat 5 to 7 minutes, stirring occasionally, until thoroughly cooked; drain. 2) Stir in salsa, tomato sauce and water. Heat to boiling. Stir in macaroni and corn. Reduce heat. Cover; simmer 12 to 15 minutes, stirring occasionally, until macaroni is tender. 3) Sprinkle with cheese. Remove from heat; let stand covered 1 to 2 minutes or until cheese is melted."
+   },
+  {
+      "title": "Vampite spagetti",
+      "pic": "https://www.google.com/search?q=spagetti&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOjqH0-dbaAhWnmuAKHWAFAVIQ_AUICigB&biw=1029&bih=664#imgrc=nGCyOP8zMD7gVM:",
+      "ingredients": ["5 Roma Tomatoes" ,"6 gloves Garlic ; sliced/dices in garlic press","1/2 cup onions ; diced" , "1 cup Portabella Mushrooms ; diced (approx)", "2 tablespoons parsley ; diced" , "1/4 teaspoon Hungarian Paprika" , "1/2 cup Burgundy Red Wine" , "5 tablespoons Parmesan cheese grated" , "5 tablespoons Extra virgin olive oil"],
+      "directions": "1)While water heats for spaghetti, assemble ingredients, and cut up veggies.2) Heat olive oil in frying pan over medium heat, and add onions and paprika when oil is hot. 3)Sauté till onions are translucent (watching temperature), and add tomatoes, parsley and garlic, bay leaf, and oregano. 4) Sauté till onions are translucent (watching temperature), and add tomatoes, parsley and garlic, bay leaf, and oregano. 5)Add mushrooms, and cook for about two minutes. 6) Add wine and simmer, 7)Let sauce simmer while spaghetti cooks. 8)When spaghetti is done, drain it and toss with a tablespoon of olive oil and half the grated cheese. 8)Stir rest of the cheese into the sauce. "
+   }, 
+	{
+	
+
+      "title": "Chinese fried rice",
+      "pic": "https://www.google.com/search?hl=en&biw=1058&bih=664&tbm=isch&sa=1&ei=8EThWojaHcaPjwTJ_5-IDA&q=chinese+rice&oq=chinese+rice&gs_l=psy-ab.3..0l10.4224.6403.0.6499.11.8.0.0.0.0.123.638.7j1.8.0....0...1c.1.64.psy-ab..5.6.496...0i67k1.0.1lk1KyZ-HgE#imgrc=P2BiNJEp5DgpRM:",
+      "ingredients": ["3⁄4 cup finely chopped onion" , "1 egg, lightly beaten (or more eggs if you like)" , "3 drops soy sauce" , "3 drops sesame oil" , "8 ounces cooked lean boneless pork or 8 ounces chicken, chopped" , "1⁄2 cup finely chopped carrot (very small)" , "1⁄2 cup frozen peas, thawed", "4 cups cold cooked rice, grains separated (preferably medium grain", "4 green onions, chopped" , "2 cups bean sprouts", "2 tablespoons light soy sauce (add more if you like)"],
+      "directions": "1)Heat 1 tbsp oil in wok; add chopped onions and stir-fry until onions turn a nice brown color, about 8-10 minutes; remove from wok.2)Mix egg with 3 drops of soy and 3 drops of sesame oil; set aside.3)Add 1/2 tbsp oil to wok, swirling to coat surfaces; add egg mixture; working quickly, swirl egg until egg sets against wok; when egg puffs, flip egg and cook other side briefly; remove from wok, and chop into small pieces. 4)Heat 1 tbsp oil in wok; add selected meat to wok, along with carrots, peas, and cooked onion; stir-fry for 2 minutes. 5)Add rice, green onions, and bean sprouts, tossing to mix well; stir-fry for 3 minutes. 6) Add 2 tbsp of light soy sauce and chopped egg to rice mixture and fold in; stir-fry for 1 minute more; serve."
+	},
+	{
+     "title": "Avocado and Lime Bean Bowl",
+      "pic": "https://www.google.com/search?q=Avocado+and+Lime+Bean+Bowl&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip-6-WgNfaAhUEMd8KHTzXB1gQ_AUICygC&biw=904&bih=664#imgrc=2XC635ikUrKouM:",
+      "ingredients": ["1/4 avocado" , "Pinch of cumin", "Pinch of coarse salt" , "1 tsp. sunflower seeds" , "1 tsp. lime juice", "2 bell pepper sides from Big-Batch Roasted Veggies", "1/2 c. Citrus and Mint Berries", "1/2 c. Breakfast Beans"],
+      "directions": "1)Mash avocado with lime juice and a pinch each of cumin and coarse salt. 2)Spoon over bell pepper sides from the Big-Batch Roasted Veggies.3)Combine with Breakfast Beans, sunflower seeds, and a lime wedge. 4)Serve with Citrus and Mint Berries. "
+	},
+	{
+      "title": "Easy Roasted Veggies and Tempeh Bowl Recipe",
+      "pic": "https://www.google.com/search?q=Easy+Roasted+Veggies+and+Tempeh+Bowl+Recipe&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMp7mhgdfaAhXRl-AKHVo6CVcQ_AUICygC&biw=904&bih=664#imgrc=iU9X4BAiZ6moJM:",
+      "ingredients": ["1 c. baby spinach", "1/2 c. shredded red cabbage", "1/2 c. quinoa", "1 c. assorted roasted veggies", "1 piece roasted tempeh ", "2 tbsp. Chopped cilantro" , "1/4 tsp. toasted sesame oil" , "Sliced radishes", "lime wedge"],
+      "directions": "1)Fill a bowl with baby spinach, shredded red cabbage, cooked quinoa, and assorted roasted veggies (we used ½ cup each tomatoes and broccoli). 2)Top with roasted tempeh and chopped cilantro; drizzle with toasted sesame oil. 3) Heat in microwave. 4) Garnish with sliced radishes and a lime wedge."
+	},
+	{
+      "title": "Roasted Mushroom Parmesan Sandwich",
+      "pic": "https://www.google.com/search?q=roasted+mushroom+parmesan+sandwich&source=lnms&tbm=isch&sa=X&ved=0ahUKEwizl-nVgtfaAhXDVN8KHaVWD1QQ_AUICigB&biw=904&bih=664#imgrc=6arFuUWdiJ7gEM:",
+      "ingredients": ["1/4 c. panko", "1/2 tsp. dried oregano" , "4 large portobello mushroom caps" , "4 hero rolls", "4 oz. fresh mozzarella" , "1/4 c. Grated Parmesan" , "1/2 c. jarred marinara sauce" , "parsley"],
+      "directions": "1)Preheat the broiler. Line the baking sheet with the nonstick foil. 2)In a small bowl, combine 1/4 cup panko with 1 tablespoon olive oil and 1/2 teaspoon dried oregano. 3)Place 4 large portobello mushroom caps on the prepared baking sheet and brush with 1 tablespoon olive oil and season with kosher salt and pepper. Place in the oven and broil until mushrooms are just tender and beginning to release juices, 6 to 8 minutes. 4) While the mushrooms are broiling, split and toast 4 hero rolls, slice 4 ounces fresh mozzarella, and grate 1/4 cup Parmesan. Divide the cooked mushrooms among the bottom halves of the toasted rolls, then top each with 2 tablespoons jarred marinara sauce, 1/4 of the sliced fresh mozzarella and 1 tablespoon grated Parmesan. 5) Broil until the cheese melts, 1 to 2 minutes. Top with the panko mixture, and broil until golden brown, 30 seconds. Sprinkle with chopped parsley before serving, if desired."
+	},
+	{
+	title": " Fried Avocado Tacos",
+      "pic": "https://www.google.com/search?q=%22Fried%22+Avocado+Tacos&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjGoK7jg9faAhVnmuAKHZ8fBGAQ_AUICigB&biw=904&bih=664#imgrc=o8QDiUQfnPV5pM:",
+      "ingredients": ["1/4 c. all-purpose flour" , "Kosher salt", "pepper", "2 large egg whites" , "1 c. panko breadcrumbs", "2 tbsp. olive oil", "2 medium firm but ripe avocados" , "1 lime, plus wedges for serving", "4 tbsp. mayonnaise", "1/2 small red cabbage (about 1 pound), cored and thinly sliced", "2 scallions, thinly sliced", "1 jalapeño, seeded and thinly sliced", "1/2 c. fresh cilantro leaves, plus more for serving", "8 small flour tortillas, warmed"],
+      "directions": "1) Heat oven to 425°F and line a large rimmed baking sheet with nonstick foil. 2)In a small bowl, whisk together the flour and ¼ teaspoon each salt and pepper. Lightly beat the egg whites in a second small bowl. In a third small bowl, combine the panko with the oil. 3)Cut the avocados in half, remove the pit and peel. Cut each half into ½-inch-thick slices. Working with one slice at a time, coat avocado slices lightly in flour, then in the egg, letting any excess drip off and finally in the panko, pressing gently to help it adhere. Transfer to the prepared baking sheet and repeat with remaining avocado slices. Bake until golden brown, 20 to 25 minutes. 4)Meanwhile, finely grate the lime zest into a large bowl, then squeeze in 2 tablespoon juice. Whisk in the mayonnaise and a pinch of salt. Add the cabbage, scallions, and jalapeño and toss to coat; fold in the cilantro. Fill the tortillas with the avocados and top with the cabbage slaw. Serve with extra cilantro, lime wedges and sour cream, if desired."	
+	},
+	{
+
+      "title": "Prosciutto-Melon Panini",
+      "pic": "https://www.google.com/search?q=Prosciutto-Melon+Panini&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_g76PhdfaAhXylOAKHQqGCaAQ_AUICigB&biw=904&bih=664#imgrc=GNhTvebKgLEsHM:",
+      "ingredients": ["1 ciabatta roll" , "2 tbsp. Canteloupe Jam" , "4 thin slices mozzarella" , "4 slices prosciutto", "arugula"],
+      "directions": "1) On split ciabatta roll, spread Cantaloupe Jam; layer bottom with mozzarella, prosciutto and handful of arugula. 2)Bake in oven at 425 degrees F until cheese melts. "
+
+	},
+	{
+     "title": "New World Succotash",
+      "pic": "https://www.google.com/search?q=Black+Women+New+World+Succotash&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjBtoLxhtfaAhVmmeAKHVrQDP0Q_AUICigB&biw=904&bih=664#imgrc=QaTEmWrbfpqQfM:",
+      "ingredients": ["2 slice thick-cut bacon","4 medium carrots","3 c. fresh corn kernels","1 bag edamame","1 lemon","1/4 c. snipped fresh chives" , "tsp. cayenne (ground red pepper)" , "salt"],
+      "directions": "1)In 12-inch skillet, cook bacon on medium 8 minutes or until browned and crisp, turning occasionally. While bacon cooks, peel and cut carrots into quarters lengthwise, then cut crosswise at an angle into 1 1/2-inch pieces. Drain bacon on paper towels. Remove and discard all but 1 tablespoon fat from skillet. 2)To skillet, add carrots and 1/4 cup water. Cover and cook 6 minutes. Add corn and edamame and cook, uncovered, 8 to 10 minutes or until vegetables are tender, stirring occasionally. 3)Meanwhile, from lemon, grate 1 teaspoon peel and squeeze 1 tablespoon juice into large bowl. Add vegetable mixture, chives, cayenne, and 1/2 teaspoon salt; toss to combine. 4)To serve, crumble bacon and sprinkle over succotash.   "
+
+	},
+	{
+    "title": "Veggie Focaccia",
+      "pic": "https://www.google.com/search?q=veggie+focaccia&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuqeQidfaAhVph-AKHYyvB0kQ_AUICigB&biw=904&bih=664#imgrc=k5j-n5w4gOxw0M:",
+      "ingredients": ["1 tbsp. red wine vinegar","1 tbsp. extra-virgin olive oil","1 small shallot","1/2 tsp. chopped fresh thyme leaves","salt","pepper","1 jar artichoke hearts","1 jar red peppers","3 oz. baby spinach leaves" , "4 piece focaccia bread", "1/4 c. prepared basil pesto"],
+      "directions": "1)In small bowl, whisk together vinegar, oil, shallot, thyme, 1/8 teaspoon salt, and 1/8 teaspoon freshly ground black pepper. Place artichokes in a medium bowl, peppers in another bowl, and spinach in a third bowl. Divide dressing among all 3 bowls. Toss all food in bowls until well coated. 2)With serrated knife, split each focaccia square horizontally in half. In another small bowl, stir together pesto and mayonnaise. Spread on all cut sides of focaccia. 3)On each bottom half of focaccia, layer one-fourth each of spinach, peppers, mozzarella, and artichokes. Replace top halves of focaccia.  "
+
+
+	}
+
+
   ]
 }
